@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Marketit Tech blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Marketit"
 description              : "Marketit tech blog"
 url                      : "marketit.github.io"
 baseurl                  : ""
@@ -107,13 +107,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Marketit"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Influencer marketing platform"
+  location         : "s.Korea"
   email            :
   links:
-    - label: "Email"
+    - label: "dev@marketit.asia"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
