@@ -9,26 +9,26 @@
 	font-family: 'Noboto Neue';
 	font-style: normal;
 	font-weight: 300;
-	src: url('/resource/fonts/NobotoNeue-Light.woff2') format('woff2'), url('/resource/fonts/NobotoNeue-Light.woff') format('woff');
+	src: url('./fonts/NobotoNeue-Light.woff2') format('woff2'), url('./fonts/NobotoNeue-Light.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Noboto Neue';
 	font-style: normal;
 	font-weight: 400;
-	src: url('/resource/fontsNobotoNeue-Regular.woff2') format('woff2'), url('/resource/fonts/NobotoNeue-Regular.woff') format('woff');
+	src: url('./fontsNobotoNeue-Regular.woff2') format('woff2'), url('./fonts/NobotoNeue-Regular.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Noboto Neue';
 	font-style: normal;
 	font-weight: 600;
-	src: url('/resource/fonts/NobotoNeue-Semibold.woff2') format('woff2'), url('/resource/fonts/NobotoNeue-Semibold.woff') format('woff');
+	src: url('./fonts/NobotoNeue-Semibold.woff2') format('woff2'), url('./fonts/NobotoNeue-Semibold.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Noboto Neue';
 	font-style: normal;
 	font-weight: 800;
-	src: url('/resource/fonts/NobotoNeue-Black.woff2') format('woff2'), url('/resource/fonts/NobotoNeue-Black.woff') format('woff');
+	src: url('./fonts/NobotoNeue-Black.woff2') format('woff2'), url('./fonts/NobotoNeue-Black.woff') format('woff');
 }

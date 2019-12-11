@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
-@import url('/resource/nobotosymbols.css');
-@import url('/resource/nobotoneue.css');
+@import url('./nobotosymbols.css');
+@import url('./nobotoneue.css');
 
 /* basic-color */
 
