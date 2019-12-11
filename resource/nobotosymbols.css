@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*
+ * Noboto Symbols, Icon symbols from Material Icons, Google; Combined and redesigned to Noboto by Kil Hyung-jin, Marketit;
+ */
+
+@font-face {
+	font-family: 'Noboto Symbols';
+	font-style: normal;
+	font-weight: 400;
+	src: url('/resource/fonts/NobotoSymbols-Regular.woff2') format('woff2');
+}

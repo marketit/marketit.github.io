@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*
+ * Noboto Neue, original glyphs from Roboto by Christian Robertson, Google; Hangul glyphs from Noto Sans CJK(Source Han Sans) by Jang Soo-young and Kang Joo-yeon, Sandoll Communications; Combined and added some glyphs by Kil Hyung-jin, Marketit;
+ */
+
+@font-face {
+	font-family: 'Noboto Neue';
+	font-style: normal;
+	font-weight: 300;
+	src: url('/resource/fonts/NobotoNeue-Light.woff2') format('woff2'), url('/resource/fonts/NobotoNeue-Light.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Noboto Neue';
+	font-style: normal;
+	font-weight: 400;
+	src: url('/resource/fontsNobotoNeue-Regular.woff2') format('woff2'), url('/resource/fonts/NobotoNeue-Regular.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Noboto Neue';
+	font-style: normal;
+	font-weight: 600;
+	src: url('/resource/fonts/NobotoNeue-Semibold.woff2') format('woff2'), url('/resource/fonts/NobotoNeue-Semibold.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Noboto Neue';
+	font-style: normal;
+	font-weight: 800;
+	src: url('/resource/fonts/NobotoNeue-Black.woff2') format('woff2'), url('/resource/fonts/NobotoNeue-Black.woff') format('woff');
+}
