@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
-@import url('https://tistory2.daumcdn.net/tistory/1777041/skin/images/nobotosymbols.css');
-@import url('https://tistory4.daumcdn.net/tistory/1777041/skin/images/nobotoneue.css');
+@import url('./nobotosymbols.css');
+@import url('./nobotoneue.css');
 
 /* basic-color */
 
