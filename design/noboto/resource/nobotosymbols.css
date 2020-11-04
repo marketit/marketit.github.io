@@ -11,3 +11,17 @@
 	font-weight: 400;
 	src: url('./fonts/NobotoSymbols-Regular.woff2') format('woff2');
 }
+
+@font-face {
+	font-family: 'Noboto Symbols SBIX';
+	font-style: normal;
+	font-weight: 400;
+	src: url('./fonts/NobotoSymbols-ColorSBIX.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Noboto Symbols COLR';
+	font-style: normal;
+	font-weight: 400;
+	src: url('./fonts/NobotoSymbols-ColorCOLR.woff2') format('woff2');
+}

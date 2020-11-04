@@ -23,7 +23,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-size: 1em;
-	font-family: 'Noboto Symbols', 'Noboto Neue', 'Noboto', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Roboto, Helvetica, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+	font-family: 'Noboto Symbols', 'Noboto Symbols SBIX', 'Noboto Symbols COLR', 'Noboto Neue', 'Noboto', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Roboto, Helvetica, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
 	color: var(--body);
 	fill: var(--body);
 	text-rendering: optimizeLegibility;
@@ -268,6 +268,7 @@ section.symbols ul.list li .icon:after {
 	border-radius: 7px;
 	background-color: var(--bg-body-menu);
 	transition: opacity 0.2s ease;
+	backdrop-filter: saturate(180%) blur(4px);
 	-webkit-backdrop-filter: saturate(180%) blur(4px);
 }
 section.symbols ul.list li .icon:hover:after {
