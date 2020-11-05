@@ -282,9 +282,16 @@ section.symbols ul.list li .description {
 	margin-top: 12px;
 	text-align: center;
 	font-size: 0.875em;
+	word-break: break-all;
 }
 
 /* dark mode */
+
+@media only screen and (max-width: 576px) {
+	section.symbols ul.list {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
 
 @media (prefers-color-scheme: dark) {
 	/* basic-color */
