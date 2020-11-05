@@ -23,7 +23,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-size: 1em;
-	font-family: 'Noboto Neue', 'Noboto', 'Noboto Symbols', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Roboto, Helvetica, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+	font-family: 'Noboto Neue', 'Noboto Symbols', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Roboto, Helvetica, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
 	color: var(--body);
 	fill: var(--body);
 	text-rendering: optimizeLegibility;
@@ -231,6 +231,7 @@ section.symbols ul.list li {
 section.symbols ul.list li .icon {
 	position: relative;
 	padding: 24px;
+	font-family: 'Noboto Symbols';
 	font-size: 48px;
 	text-align: center;
 	border: 1px solid var(--bg-divider);
@@ -260,6 +261,7 @@ section.symbols ul.list li .icon:after {
 	justify-content: center;
 	opacity: 0;
 	content: '복사';
+	font-family: 'Noboto Neue', 'Noboto Symbols', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Roboto, Helvetica, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
 	font-size: 14px;
 	font-weight: 600;
 	line-height: 1.5;
