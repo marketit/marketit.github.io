@@ -9,6 +9,7 @@
 	font-family: 'Noboto Neue';
 	font-style: normal;
 	font-weight: 300;
+	font-display: swap;
 	src: url('./fonts/NobotoNeue-Light.woff2') format('woff2'), url('./fonts/NobotoNeue-Light.woff') format('woff');
 }
 
@@ -16,6 +17,7 @@
 	font-family: 'Noboto Neue';
 	font-style: normal;
 	font-weight: 400;
+	font-display: swap;
 	src: url('./fontsNobotoNeue-Regular.woff2') format('woff2'), url('./fonts/NobotoNeue-Regular.woff') format('woff');
 }
 
@@ -23,6 +25,7 @@
 	font-family: 'Noboto Neue';
 	font-style: normal;
 	font-weight: 600;
+	font-display: swap;
 	src: url('./fonts/NobotoNeue-Semibold.woff2') format('woff2'), url('./fonts/NobotoNeue-Semibold.woff') format('woff');
 }
 
@@ -30,5 +33,6 @@
 	font-family: 'Noboto Neue';
 	font-style: normal;
 	font-weight: 800;
+	font-display: swap;
 	src: url('./fonts/NobotoNeue-Black.woff2') format('woff2'), url('./fonts/NobotoNeue-Black.woff') format('woff');
 }

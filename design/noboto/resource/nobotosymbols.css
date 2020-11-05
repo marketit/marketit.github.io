@@ -9,19 +9,22 @@
 	font-family: 'Noboto Symbols';
 	font-style: normal;
 	font-weight: 400;
+	font-display: swap;
 	src: url('./fonts/NobotoSymbols-Regular.woff2') format('woff2');
 }
 
 @font-face {
-	font-family: 'Noboto Symbols SBIX';
+	font-family: 'Noboto Symbols';
 	font-style: normal;
 	font-weight: 400;
+	font-display: swap;
 	src: url('./fonts/NobotoSymbols-ColorSBIX.woff2') format('woff2');
 }
 
 @font-face {
-	font-family: 'Noboto Symbols COLR';
+	font-family: 'Noboto Symbols';
 	font-style: normal;
 	font-weight: 400;
+	font-display: swap;
 	src: url('./fonts/NobotoSymbols-ColorCOLR.woff2') format('woff2');
 }
