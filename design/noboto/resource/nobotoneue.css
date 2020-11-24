@@ -18,7 +18,7 @@
 	font-style: normal;
 	font-weight: 400;
 	font-display: swap;
-	src: url('./fontsNobotoNeue-Regular.woff2') format('woff2'), url('./fonts/NobotoNeue-Regular.woff') format('woff');
+	src: url('./fonts/NobotoNeue-Regular.woff2') format('woff2'), url('./fonts/NobotoNeue-Regular.woff') format('woff');
 }
 
 @font-face {
